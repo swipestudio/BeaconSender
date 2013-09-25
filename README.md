@@ -1,13 +1,16 @@
 Swipe BeaconSender
 ============
-
 This app is part of an iBeacon demonstration of Swipe.
 
 It will act as an iBeacon on any capable iOS 7 device (iPhone 4S and later, iPad 3 and later, iPod touch 5th gen and later).
 
-The other part consists of the Receiver app, also available in the Swipe Github account.
+The other part consists of the [Receiver app, also available in the Swipe Github account](https://github.com/swipestudio/BeaconReceiver).
 
 Please make sure to change the variable _uuidString to your own unique UUID (you can generate one using ´uuidgen´ in OS X Terminal) in the SBSViewController.
+
+Usage
+====
+For usage instructions, see the description of the [Receiver app](https://github.com/swipestudio/BeaconReceiver).
 
 License
 =====
